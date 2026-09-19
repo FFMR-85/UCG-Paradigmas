@@ -3,7 +3,7 @@ import libreria_funciones as lf
 
 st.title("Paradigmas de la programación")
 
-# st.sidebar.image("ucsg.png")
+st.sidebar.image("ucsg.png")
 
 st.sidebar.title("Parametros")
 
